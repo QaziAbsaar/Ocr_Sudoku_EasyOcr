@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This Python script uses OpenCV and EasyOCR to detect and solve Sudoku puzzles from an image.
+This Python script uses OpenCV and EasyOCR to detect and solve Sudoku puzzles from an image and then use backtracking algorithm to solve the gride.
 
 ## Features
 
